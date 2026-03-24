@@ -15,7 +15,8 @@ The goal is to:
 - Average Sales: **$141**
 - Total Items: **8523**
 - Average Rating: **3.92**
- Key Analysis:
+
+Key Analysis:
 
  - Sales by Outlet Type
  - Outlet Distribution by Size
